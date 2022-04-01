@@ -1,5 +1,3 @@
-import imp
-from urllib import response
 from django.http import HttpRequest
 from django.urls import resolve
 from django.test import TestCase
